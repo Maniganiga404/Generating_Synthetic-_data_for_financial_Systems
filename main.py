@@ -77,7 +77,7 @@ for customer in customers:
             customer=customer,
             financial_profile=profile,
             start_date="2026-01-01",
-            months=3
+            months=1
         )
     )
 
